@@ -16,3 +16,4 @@ espaço focado para discussões de cinema e debates culturais.
 - **Universitários e pesquisadores** - Interessados em obras raras e valor cultural
 - **Cineclubes e grupos culturais** - Que buscam espaços para discussões e debates
 - **Público geral** - Pessoas que apreciam cinema como forma de arte e laze
+
