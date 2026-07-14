@@ -10,6 +10,6 @@
  2. Definir objetivos do sistema 
  3. Levantar requisitos funcionais
  4. Levantar requisitos não funcionais
- 5.Definir regras de negócio 
+ 5. Definir regras de negócio 
  6. Escolher tecnologias 
  7. Criar fluxos de navegação 
