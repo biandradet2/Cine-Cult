@@ -38,3 +38,14 @@ espaço focado para discussões de cinema e debates culturais.
 - **GitHub e GitHub Projects:** Versionamento e gestão do projeto com Kanban
 - **Figma:** Criação do protótipo de interface
 - **Markdown:** Documentação do sistema
+
+---
+
+  ## Equipe
+
+| Nome | Papel |
+| Beatriz Andrade Teixeira | Product Owner |
+| Isabela Pereira | Scrum Master |
+| Álvaro Peixoto | Desenvolvedor |
+| Heitor Sarmet| Desenvolvedor |
+| Pedro Correia | Desenvolvedor |
