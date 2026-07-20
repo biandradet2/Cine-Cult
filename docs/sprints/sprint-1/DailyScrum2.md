@@ -2,11 +2,11 @@
 
 - O que foi feito?
 
-Foi definido todos os requisitos de software do Sistema de Bilheteria com base na IEEE 830 e o Fluxo de Navegação do sistema.
+Foi definido o Fluxo de Navegação e foi discutido como ficaria a definição dos requisitos.
 
 - O que será feito?
 
-Começaremos a definir a identidade visual do cinema, como paleta de cores e a logo, para serem utilizados na criação do site. Também será criado o banco de dados do sistema.
+Será feito o documento da Definição dos Requisitos do sistema de bilheteria com base na IEEE 830.
 
 - Existiu algum impedimento?
 
