@@ -79,4 +79,3 @@ O Cine-Cult é um sistema de bilheteria digital que vende ingressos para o cinem
 
 ---
 
-## 📊 Fluxograma Resumido
