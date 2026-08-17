@@ -1,4 +1,4 @@
-## Daily Scrum 2
+## Daily Scrum 3
 
 - O que foi feito?
 
