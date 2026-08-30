@@ -9,5 +9,5 @@
 * **Rastreabilidade:** É fundamental garantir que cada entidade e relacionamento que está sendo criado no modelo lógico corresponda diretamente aos requisitos aprovados no documento IEEE 830 recém-finalizado. 
 
 ## Plano de Ação
-**Finalização da Modelagem:** Concluir a estruturação do modelo lógico, revisando chaves primárias/estrangeiras e as cardinalidades.
-**Revisão de Consistência (Double-Check):** Fazer uma checagem cruzada entre o modelo lógico e o documento de requisitos para garantir que nenhuma regra de negócio ou dado importante foi esquecido.
+1. **Finalização da Modelagem:** Concluir a estruturação do modelo lógico, revisando chaves primárias/estrangeiras e as cardinalidades.
+2. **Revisão de Consistência (Double-Check):** Fazer uma checagem cruzada entre o modelo lógico e o documento de requisitos para garantir que nenhuma regra de negócio ou dado importante foi esquecido.
